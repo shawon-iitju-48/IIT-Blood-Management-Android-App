@@ -60,7 +60,7 @@
         android:gravity="left"
         android:linksClickable="true"
         android:padding="20dp"
-        android:text="Group: 05\n\n    Zarin Sabah Teresa\n\n    Md. Bokhtiar Nadeem Shawon\n\n    Arnab Purkaystha"
+        android:text="Group: 05\n\n    Zarin Sabah Teresa\n    Md. Bokhtiar Nadeem Shawon\n    Arnab Purkaystha"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold" />
