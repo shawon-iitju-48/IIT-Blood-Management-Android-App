@@ -2,12 +2,7 @@ package com.android.bishwo.bloodhub.viewmodels;
 
 import java.io.Serializable;
 
-/***
- Project Name: bloodhub
- Project Date: 10/09/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
+
 
 public class CustomUserData implements Serializable {
    private String Address, Division, Contact;

@@ -1,11 +1,5 @@
 package com.android.bishwo.bloodhub.viewmodels;
 
-/***
- Project Name: bloodhub
- Project Date: 12/03/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 public class UserData {
 

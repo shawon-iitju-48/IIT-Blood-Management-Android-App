@@ -13,12 +13,6 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 
-/***
- Project Name: bloodhub
- Project Date: 10/7/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 public class GetNearbyPlacesData extends AsyncTask<Object, String, String> {
 

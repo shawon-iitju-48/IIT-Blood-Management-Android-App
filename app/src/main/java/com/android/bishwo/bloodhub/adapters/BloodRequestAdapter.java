@@ -13,12 +13,6 @@ import com.android.bishwo.bloodhub.viewmodels.CustomUserData;
 
 import java.util.List;
 
-/***
- Project Name: bloodhub
- Project Date: 10/09/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 public class BloodRequestAdapter extends RecyclerView.Adapter<BloodRequestAdapter.PostHolder> {
 

@@ -37,14 +37,6 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnSuccessListener;
 
 
-/***
- Project Name: bloodhub
- Project Date: 10/09/22
- Name:SY
- Email:skyadav955186@gmail.com
-
-
- ***/
 
 public class NearByHospitalActivity extends Fragment implements
         OnMapReadyCallback, GoogleApiClient.ConnectionCallbacks,
@@ -166,7 +158,7 @@ public class NearByHospitalActivity extends Fragment implements
         googlePlaceUrl.append("&radius=").append(PROXIMITY_RADIUS);
         googlePlaceUrl.append("&type=").append(nearbyPlace);
         googlePlaceUrl.append("&sensor=true");
-        googlePlaceUrl.append("&key=" + "AIzaSyAmeQ8IwQWBcmFLRpKARu7LM1TlShQKmfg");
+        googlePlaceUrl.append("&key=" + "AIzaSyCWXhcm0KwEd14jYMUkCBuIRHx7RvI83pM");
 
         Log.d("NearbyHospitalActivity", "url = " + googlePlaceUrl.toString());
 

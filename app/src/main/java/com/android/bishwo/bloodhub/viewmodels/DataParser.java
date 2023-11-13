@@ -10,12 +10,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-/***
- Project Name: bloodhub
- Project Date: 10/09/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 
 public class DataParser {

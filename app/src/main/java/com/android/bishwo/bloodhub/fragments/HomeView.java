@@ -31,12 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/***
- Project Name: bloodhub
- Project Date: 10/10/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
+
 
 public class HomeView extends Fragment {
 

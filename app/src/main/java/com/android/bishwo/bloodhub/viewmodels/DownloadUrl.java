@@ -8,12 +8,6 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/***
- Project Name: bloodhub
- Project Date: 10/07/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 public class DownloadUrl {
 

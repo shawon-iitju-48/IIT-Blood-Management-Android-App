@@ -30,12 +30,6 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.Calendar;
 import java.util.TimeZone;
 
-/***
- Project Name: bloodhub
- Project Date: 10/09/22
- Name:SY
- Email:skyadav955186@gmail.com
- ***/
 
 public class AchievmentsView extends Fragment {
 
