@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "62991303762",
+    "firebase_url": "https://iit-emergency-blood-management-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iit-emergency-blood-management",
+    "storage_bucket": "iit-emergency-blood-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62991303762:android:679012d1e67802cdee4b8b",
+        "android_client_info": {
+          "package_name": "com.android.bishwo.bloodhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHEBmmaQIDBXOHj39MHw7LjqL-6hGRaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
