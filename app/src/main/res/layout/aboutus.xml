@@ -32,7 +32,7 @@
         android:linksClickable="true"
         android:padding="20dp"
         android:textColor="#000000"
-        android:text="@string/aboutus"
+        android:text="BloodHub is an android application to faciliate the Blood Donation for those willing to Donate and/or Seek Blood. It connects Blood Donors and Seekers directly increasing the possibility of saving lives and eliminating blood shortage."
         android:textStyle="bold"
         android:textSize="18sp" />
     <TextView
@@ -46,13 +46,13 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="50dp"
         android:layout_marginTop="10dp"
-        android:text="About Developer"
+        android:text="About Developers"
         android:textColor="#D32525"
         android:textSize="28dp"
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/txtv"
+        android:id="@+id/txtvv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
@@ -60,7 +60,7 @@
         android:gravity="left"
         android:linksClickable="true"
         android:padding="20dp"
-        android:text="Name :Surendra Yadav \n\nPhone No:9536185186\n\nEmail:2021pgcaca029@nitjsr.ac.in"
+        android:text="Group: 05\n\n    Zarin Sabah Teresa\n\n    Md. Bokhtiar Nadeem Shawon\n\n    Arnab Purkaystha"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold" />
